@@ -1,0 +1,55 @@
+@import "../../less/common";
+
+.container{
+  background-color: #f1f1f1;
+  padding-top: 20px;
+}
+
+.banner_item{
+  height: 300px;
+  > img{
+    .full();
+  }
+}
+
+.body{
+  margin-top: 20px;
+  display: flex;
+}
+
+
+.right{
+  margin-left: 20px;
+  flex: 0 0 300px;
+  overflow: hidden;
+}
+
+
+
+.left{
+  flex:1;
+  overflow:hidden;
+}
+
+
+.box{
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .1);
+  margin-bottom: 20px;
+  border-radius: 5px;
+  overflow: hidden;
+  .box_title{
+    padding: 0 15px;
+    line-height: 46px;
+    font-size: 18px;
+    background-color: #fbfbfb;
+    border-bottom: 1px solid @borderColor;
+  }
+}
+
+.loading_box{
+  padding: 20px;
+  line-height: 40px;
+  text-align: center;
+  border-top: 1px solid @borderColor;
+}

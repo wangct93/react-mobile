@@ -1,0 +1,32 @@
+
+@import "common";
+@import "~wt-reacts/less/wt-reacts";
+
+#root{
+  height: 100%;
+  width: 100%;
+}
+body{
+    font-size: 16px;
+}
+.container{
+    background-color: @contanerColor;
+    display: flex;
+    flex-direction: column;
+}
+.page-flex{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    > .body{
+        flex: 1;
+        overflow-x:hidden;
+        overflow-y: auto;
+        position: relative;
+        z-index: 1;
+    }
+}
+
+.block{
+    display: block;
+}

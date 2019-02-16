@@ -1,0 +1,852 @@
+select * from blog where id=1
+*******************************************
+select * from blog where id=1
+*******************************************
+select * from blog where id=1
+*******************************************
+select * from blog where id=1
+*******************************************
+select * from blog where id=1
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,20
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,20
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,20
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,20
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,20
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,20
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,20
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,20
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,20
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="8"
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="12"
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="2"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="2"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="12"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 20,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 30,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 40,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 50,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 20,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 30,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 40,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 50,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 20,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 30,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 20,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 30,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 40,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 50,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="12"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="12"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="12"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 20,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 30,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="12"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 20,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="12"
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="12"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="4"
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 20,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 30,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 40,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 50,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 60,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 20,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 30,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 40,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 50,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="12"
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="2"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="3"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="2"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="2"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="2"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="2"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="1"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="2"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="4"
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where id="3"
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 20,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 30,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 40,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 50,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 10,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog order by time desc limit 0,10
+*******************************************
+select count(id) total from blog where name like '%wd%'
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where name like '%wd%' order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where name like '%w%' order by time desc limit 0,10
+*******************************************
+select count(id) total from blog where name like '%w%'
+*******************************************
+select count(id) total from blog where name like '%你%'
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where name like '%你%' order by time desc limit 0,10
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where name like '%你%' order by time desc limit 10,10
+*******************************************
+select count(id) total from blog where name like '%你%'
+*******************************************
+select count(id) total from blog where name like '%你%'
+*******************************************
+select *,date_format(time,"%Y-%m-%d %H:%i:%s") time from blog where name like '%你%' order by time desc limit 0,10
+*******************************************

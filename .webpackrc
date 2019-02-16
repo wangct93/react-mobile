@@ -1,0 +1,11 @@
+{
+  "proxy":{
+    "/blog":{
+      "target":"http://localhost:6789"
+    }
+  },
+  "extraBabelPlugins": [
+    ["import", { "libraryName": "antd", "libraryDirectory": "es", "style": false }]
+  ],
+  "disableCSSModules":true
+}

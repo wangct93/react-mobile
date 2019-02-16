@@ -1,0 +1,45 @@
+@import "../../less/common";
+.list-container{
+    .footer-btn-box{
+        text-align: center;
+        padding: 20px;
+    }
+    .search-box{
+        height: auto;
+    }
+    .alt-text{
+        margin-top: 30px;
+        text-align: center;
+    }
+}
+.shop-list{
+    overflow: auto;
+    padding:0 20px;
+    > li{
+        display: flex;
+        padding: 15px 0;
+        .border-bottom();
+        cursor: pointer;
+    }
+    .img-box-full{
+        width: 90px;
+        height: 90px;
+    }
+    .info-box{
+        flex: 1;
+        padding: 0 20px;
+        overflow: hidden;
+    }
+    p{
+        line-height: 30px;
+    }
+    .shop-title{
+        color: #333;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .shop-price{
+        color: red;
+        font-size: 14px;
+    }
+}
